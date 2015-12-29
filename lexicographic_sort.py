@@ -59,5 +59,3 @@ class TestLexicographicSort(unittest.TestCase):
 
 if __name__ == '__main__':
    unittest.main()
-   print calc_alphabet("abc")
-   print lexicographic_sort(["acb", "abc", "bca"], "abc")
